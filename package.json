@@ -4,7 +4,7 @@
   "description": "Ultimate Tai Xiu Prediction API v10.0 with AI Self-Learning",
   "main": "Sunn.js",
   "scripts": {
-    "start": "server.js"
+    "start": "Sunn.js"
   },
   "keywords": [
     "taixiu",
